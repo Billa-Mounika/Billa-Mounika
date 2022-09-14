@@ -1,1 +1,1 @@
-Hi, I'm Mounika, a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection (Web scraping) and model training.
+Hi, I'm Mounika, a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection (Web scraping), model training and model deployment to various cloud platforms.
